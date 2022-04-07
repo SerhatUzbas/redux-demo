@@ -9,3 +9,5 @@ Codes are written by me but the project does not belong to me.
 This is Maximilian Schwarzmüller's project which is created for learning purposes.
 
 Really satisfying and instructive project for me.
+
+You can check this app via : https://serhat-reduxdemo.surge.sh/
